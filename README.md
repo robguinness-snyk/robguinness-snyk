@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @robguinness-snyk.
 - 👀 I’m interested in machine learning / data science / big data / cybersecurity.
-- 🌱 I’m currently learning Rust.
+- 🌱 I’m currently learning Claude Code.
 - 📫 How to reach me: rob dot guinness at snyk dot io.
 
 <!---
