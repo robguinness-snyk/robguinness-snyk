@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @robguinness-snyk.
 - 👀 I’m interested in machine learning / data science / big data / cybersecurity.
-- 🌱 I’m currently learning Claude Code.
+- 🌱 I’m currently learning Everything Agentic.
+- 🎾 Favorite pasttime: Making fun of the agents.
 - 📫 How to reach me: rob dot guinness at snyk dot io.
 
 <!---
